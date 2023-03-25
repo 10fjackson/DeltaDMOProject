@@ -1,0 +1,48 @@
+Email address,Domain name,Organization,Country,State,City,Postal code,Street,Confidence score,Type,Number of sources,Pattern,First name,Last name,Department,Position,Twitter handle,LinkedIn URL,Phone number
+fgiraud@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,94,personal,3,{f}{last},Frederique,Giraud,Management,Project Manager,"","",""
+lfarhi@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,94,personal,1,{f}{last},Lisa,Farhi,Management,Project Manager,"","",+33 1 49 52 53 09
+cmoreau@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,94,personal,2,{f}{last},Claire,Moreau,,"","","",+33 1 49 52 53 27
+pbarthelemy@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,94,personal,2,{f}{last},Patricia,Barthelemy,Marketing,Marketing Manager,"","",""
+cdupont@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,94,personal,1,{f}{last},Clarisse,Dupont,Management,Development Manager,"","",+33 1 49 52 53 09
+ivignaud@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,93,personal,4,{f}{last},Isabelle,Vignaud,,"","","",""
+fguitard@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,93,personal,3,{f}{last},Fiona,Guitard,,"","","",""
+vexposito@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,93,personal,8,{f}{last},Valerie,Exposito,Sales,Head Of Business Development,"","",""
+tdeschamps@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,93,personal,5,{f}{last},Thomas,Deschamps,Education,Research Manager,"","",""
+paris@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,92,personal,5,{f}{last},,,,,,,
+observatoire@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,92,personal,16,{f}{last},,,,,,,
+convention@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,92,generic,20,{f}{last},,,,,,,
+mcrabot@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,92,personal,19,{f}{last},,,Writing & communication,Journalist,,,
+rh@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,91,generic,12,{f}{last},,,,,,,
+eberta@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,91,personal,5,{f}{last},,,,,,,
+cbrezet@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,91,personal,13,{f}{last},,,Writing & communication,Journalist,,,
+internet@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,91,generic,11,{f}{last},,,,,,,
+traveltrade@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,90,generic,16,{f}{last},,,,,,,
+courriels@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,90,personal,14,{f}{last},,,,,,,
+contactgroup@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,90,generic,9,{f}{last},,,Support,,,,
+vpotelet@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,89,personal,9,{f}{last},,,,,,,
+meeting@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,88,generic,7,{f}{last},,,,,,,
+fpolverel@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,87,personal,8,{f}{last},,,,,,,
+agenda@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,86,generic,10,{f}{last},,,,,,,
+spetit@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,84,personal,1,{f}{last},,,,,,,
+mpiel@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,84,personal,1,{f}{last},,,,,,,
+ideferran@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,83,personal,2,{f}{last},,,,,,,
+cbernadou@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,83,personal,7,{f}{last},,,,,,,
+adhesion@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,82,personal,6,{f}{last},,,,,,,
+cmairaville@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,82,personal,4,{f}{last},,,,,,,
+paveline@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,81,personal,1,{f}{last},,,,,,,
+press@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,80,generic,6,{f}{last},,,Writing & communication,,,,
+ffdepouzols@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,79,personal,1,{f}{last},,,,,,,
+diffusion@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,79,personal,5,{f}{last},,,,,,,
+hotel@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,79,generic,2,{f}{last},,,,,,,
+jladouch@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,78,personal,1,{f}{last},,,,,,,
+serviceachats@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,78,generic,3,{f}{last},,,Support,,,,
+contact@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,78,generic,2,{f}{last},,,Support,,,,
+hlabidurie@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,77,personal,1,{f}{last},,,,,,,
+opendata@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,77,generic,5,{f}{last},,,,,,,
+malchaarani@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,77,personal,2,{f}{last},,,,,,,
+rherlambang@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,76,personal,1,{f}{last},,,,,,,
+myoffice@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,76,generic,1,{f}{last},,,,,,,
+presse@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,76,generic,2,{f}{last},,,Writing & communication,,,,
+meetings@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,75,generic,1,{f}{last},,,,,,,
+club-adherents@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,75,personal,2,{f}{last},,,,,,,
+professionnels@parisinfo.com,parisinfo.com,Paris Je T'aime,,,,,,74,personal,1,{f}{last},,,,,,,

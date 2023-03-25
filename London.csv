@@ -1,0 +1,12 @@
+Email address,Domain name,Organization,Country,State,City,Postal code,Street,Confidence score,Type,Number of sources,Pattern,First name,Last name,Department,Position,Twitter handle,LinkedIn URL,Phone number
+ccouchman@visitlondon.com,visitlondon.com,Visit London,,,,,,93,personal,2,{f}{last},Chloe,Couchman,,"",londonpartners,"",""
+mhowell@visitlondon.com,visitlondon.com,Visit London,,,,,,89,personal,2,{f}{last},,,,,,,
+blvcenquiry@visitlondon.com,visitlondon.com,Visit London,,,,,,88,personal,10,{f}{last},,,,,,,
+scola@visitlondon.com,visitlondon.com,Visit London,,,,,,84,personal,1,{f}{last},,,,,,,
+stratford@visitlondon.com,visitlondon.com,Visit London,,,,,,83,personal,1,{f}{last},,,,,,,
+trade@visitlondon.com,visitlondon.com,Visit London,,,,,,82,generic,4,{f}{last},,,,,,,
+editorial@visitlondon.com,visitlondon.com,Visit London,,,,,,79,generic,2,{f}{last},,,Management,,,,
+pressoffice@visitlondon.com,visitlondon.com,Visit London,,,,,,78,generic,2,{f}{last},,,Writing & communication,,,,
+jgeneen@visitlondon.com,visitlondon.com,Visit London,,,,,,77,personal,1,{f}{last},,,,,,,
+eventsolutions@visitlondon.com,visitlondon.com,Visit London,,,,,,76,generic,1,{f}{last},,,Marketing,,,,
+book@visitlondon.com,visitlondon.com,Visit London,,,,,,75,generic,1,{f}{last},,,,,,,
